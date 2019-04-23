@@ -1,0 +1,5 @@
+data=c(10,11,18,19,12,15,18,18,11,10,26,23,26)
+mean(data)
+barplot(data, col="light blue")
+pie(data)
+install.packages("pacman")
